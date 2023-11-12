@@ -20,4 +20,4 @@ It is important to rebalance your portfolio periodically to ensure that it remai
 
 Disclaimer :
 
-This portfolio is for illustrative purposes only and is not intended to be financial advice. Investors should consult with a financial advisor before making any investment decisions.
+This portfolio is for illustrative purposes only and is not intended to be financial advice. 
